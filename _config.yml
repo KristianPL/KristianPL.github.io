@@ -1,0 +1,11 @@
+title: "My Digital Workspace"
+description: "AI Researcher and Homelab Enthusiast"
+theme: minima  # Options: hacker, slate, tactile, midnight, architect
+
+# Header Links
+header_pages:
+  - about.md
+
+# Social Links
+twitter_username: yourhandle
+github_username: yourusername
