@@ -3,9 +3,11 @@ layout: home
 title: Welcome
 ---
 
-# Hello, World!
+# SAWS Synthesizer
+<img width="1655" height="931" alt="image" src="https://github.com/user-attachments/assets/2f3d37d4-d4dd-4ed0-bf8c-92a1b1ccc22d" />
 
-Welcome to my ad-hoc project page. I use this space to document:
+
+Welcome to the SAWS Synthetizer page:
 * Server rack builds
 * Synth filtering techniques
 * AI infrastructure research
