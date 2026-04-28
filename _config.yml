@@ -1,5 +1,5 @@
-title: "My Digital Workspace"
-description: "AI Researcher and Homelab Enthusiast"
+title: "The SAWS Synthesizer Knowledgebase"
+description: "Free virtual analog subtractive synthesizer"
 theme: minima  # Options: hacker, slate, tactile, midnight, architect
 
 # Header Links
@@ -7,5 +7,5 @@ header_pages:
   - about.md
 
 # Social Links
-twitter_username: yourhandle
-github_username: yourusername
+youtube_username: KristianPont
+github_username: KristianPl
