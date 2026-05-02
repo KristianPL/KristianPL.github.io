@@ -21,3 +21,38 @@
   font-size: 0.9rem;
   border-left: 4px solid #157ad8;
 }
+
+
+/* 1. Full Width (Edge-to-Edge of the content container) */
+.full-width {
+  width: 100%;
+  height: auto; /* Maintains Aspect Ratio */
+  display: block;
+  margin: 2rem 0;
+}
+
+/* 2. Reduced Size (Centered) */
+.medium-size {
+  width: 50%;
+  min-width: 300px; /* Prevents it from getting too small on mobile */
+  height: auto;
+  display: block;
+  margin: 2rem auto; /* "auto" centers the image */
+}
+
+/* 3. Floating Left (Text wraps around it - good for small icons/knobs) */
+.float-left {
+  width: 200px;
+  height: auto;
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+}
+
+/* 4. The "Modern Card" (Full width with shadow and rounded corners) */
+.card-img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  margin: 3rem 0;
+}
