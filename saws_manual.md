@@ -170,8 +170,7 @@ Full FM effect is achieved when OSC1 is a sine waveform. For other waveforms (sa
 
 ### **LFOs**
 
-![titlen](https://github.com/user-attachments/assets/7fdc7980-4d07-4195-9e3e-cbe149739c0){: .float-left}
-
+![titlen](https://github.com/user-attachments/assets/744a0923-cfa0-449e-8864-200006925eff){: .float-left}
 
 
 The **Sine or Triangle** lever sets the waveform for LFO1 and LFO2 to sine or triangle.  
