@@ -9,8 +9,9 @@ title: Home
 
 ---
 
+ 
+![Front page](https://github.com/user-attachments/assets/14b9e4d7-ea3c-4eaf-8297-dc18322a64b0){: .full-width}
 
-<img width="887" height="816" alt="image" src="https://github.com/user-attachments/assets/b3c8a911-95a1-46d1-803c-182fe99d2a9a" />
 
 
 ### **Welcome and Key features**
