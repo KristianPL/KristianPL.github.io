@@ -2,13 +2,12 @@ title: "The SAWS Synthesizer Resource"
 description: "Free stereo virtual analog subtractive synthesizer"
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-remote-theme
 
-
-# Settings for the Table of Contents and Markdown
 kramdown:
   input: GFM # GitHub Flavored Markdown
   syntax_highlighter: rouge
-
 
 # Header Links (Architect uses these in the sidebar/header)
 header_pages:
