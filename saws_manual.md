@@ -6,7 +6,7 @@
 **Contact**
 
 
-##**Design**
+### **Design**
 
 Building on classic subtractive principles, the SAWS Synth is a virtual analog synthesizer features 8 voice polyphony, 3 oscillators, extended 8-voice unison control and a full stereo path architecture.
 The single-page layout displays all parameter values in plain view for the active patch.
@@ -17,17 +17,17 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 
 
-**Signal path** 
+### **Signal path** 
 
 <img width="1301" height="618" alt="Image" src="https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8" />
 
 
-**Installations guide**
+### **Installations guide**
 
 
-**Disclaimer**
+### **Disclaimer**
 
-**UI overview**
+### **UI overview**
 
 <img width="1337" height="759" alt="Image" src="https://github.com/user-attachments/assets/07a45029-ec08-4f23-90db-61ac7e8c9d2b" />
 
@@ -35,7 +35,7 @@ Below the overall organization and the signal flow logic of the UI.
 
 <img width="1209" height="402" alt="Image" src="https://github.com/user-attachments/assets/bcf95bba-74f7-4f08-8226-acf5e1922486" />
 
-**Oscillators**
+### **Oscillators**
 
 <img width="505" height="255" alt="Image" src="https://github.com/user-attachments/assets/97f26fca-64ae-4eed-be7d-7c0462d57a55" />
 
@@ -49,7 +49,7 @@ Below the overall organization and the signal flow logic of the UI.
 - "**c64Grit**" lower cutoff and wider res peak somehow resembling HP filter gritty sound of the c64
 - "**LeakyGrit**" imperfect lowpass filter with 2 extra pass band lobes
 
-**Unison**
+### **Unison**
 
 <img width="393" height="264" alt="Image" src="https://github.com/user-attachments/assets/b0deada9-f57b-417f-95e6-34ce7b995388" />
 
@@ -60,14 +60,14 @@ The "**SuperSaw**" type uses static detuned voices spread out with given detune 
 Asym, is an extra fine tuning parameter causing different effects depending on the unison mode 
 **Ch. Freq** set the common frequency for all unison modules, affects the "ChorusLike" unision mode chorusing frequency.
 
-**Osc mixer**
+### **Osc mixer**
 
 <img width="203" height="259" alt="Image" src="https://github.com/user-attachments/assets/07f1c57d-3d67-49b2-9fe9-5e8a437a8556" />
 
 **Vol** and **Pan** mixes the output from the unision module before entering the filter.
 **Pre-attack** controls an attack ramp time of the signal before the filter.
 
-**Filter routing & Mix**
+### **Filter routing & Mix**
 
 <img width="516" height="350" alt="Image" src="https://github.com/user-attachments/assets/aa1b4162-3459-4890-be5d-35c94d6a3486" />
 
@@ -78,14 +78,14 @@ On the F2 line, it is possible apply **Sat** before and/or after the filter.
 **F1 and F2 Mixer**
 Final mix of the filter output.
 
-**Amp Envelope**
+### **Amp Envelope**
 <img width="213" height="344" alt="Image" src="https://github.com/user-attachments/assets/26c394a9-5802-40a8-a4ff-62f1a0ad0a7b" />
 
 **ADSR** control of the signal.
 **Curve** sets the envelope curve form from round to linear.
 **DELTA F. ENV** sets a time delay of the AMP Envelope relative to the Filter Envelope. Can be negative or positive, when negative the filter envelope is delayed after the amp envelope. When positive the AMP envelope comes after the filter envelope.
 
-**Master Out**
+### **Master Out**
 
 <img width="212" height="277" alt="Image" src="https://github.com/user-attachments/assets/64cbbb9a-b556-4975-ab5c-afd4687414d1" />
 
@@ -93,7 +93,7 @@ Final mix of the filter output.
 Vol and Meter
 
 
-**Filters**
+### **Filters**
 
 <img width="257" height="293" alt="Image" src="https://github.com/user-attachments/assets/0905a4d9-0959-443b-9879-426326c0792d" />
 
@@ -108,7 +108,7 @@ Vol and Meter
 Standard filter controls with **Cutoff**, **Res** and  **Contour**
 **Keytrack** scales the cutoff sculpting value to the keynumber. 100% scales the note freq to the cutoff. Negative key tracking values can be used to effectivly dampen the higher notes.
 
-**Filter Envelope**
+### **Filter Envelope**
 
 <img width="214" height="339" alt="Image" src="https://github.com/user-attachments/assets/0878c30a-4b4d-47d0-9717-f9372a1d45ef" />
 
@@ -117,7 +117,7 @@ Standard filter controls with **Cutoff**, **Res** and  **Contour**
 **PW ENV** sets Pulse width and shape to the filter envelope. This is active even when sculpt is 0.
 
 
-**Soft Mod**
+### **Soft Mod**
 
 <img width="216" height="105" alt="Image" src="https://github.com/user-attachments/assets/2ad44f27-68a3-4ceb-9ba4-159d0bdb09eb" />
 
@@ -127,7 +127,7 @@ Full FM effect is achieved when OSC1 is a sine waveform. For other waveforms (sa
 
 
 
-**LFOs**
+### **LFOs**
 
 <img width="469" height="92" alt="Image" src="https://github.com/user-attachments/assets/bbd7305d-8ee3-4615-863b-fcd270664372" />
 
@@ -135,18 +135,18 @@ The **Sine or Triangle** lever sets the waveform for LFO1 and LFO2 to sine or tr
 Freq, Ph. and Att. control the frequency, start phase and attack ramp time of the LFO. In the lower settings of the frequency slider there are options to sync the LFO freq to DAW tempo. 
 In the lower range of the phase slider, 2 special modes "Rnd" for random phase onset, and "Scene" for shared running phase of all active voices.
 
-**LFO1 Dirt**
+### **LFO1 Dirt**
 <img width="393" height="61" alt="Image" src="https://github.com/user-attachments/assets/bc8a1be8-5b4b-4c8f-9546-71eddde4c6d2" />
 
 Brownian style noise source that can be added independently to the LFO1 signal and associated matrix parameters.
 **Color** and  **Ampl** set the noise color and amplitude, where a higher color value has more high frequency content.
 
-**Vibrato**
+### **Vibrato**
 <img width="259" height="130" alt="Image" src="https://github.com/user-attachments/assets/c076bdd2-e514-4f47-9856-df8b28ad181a" />
 
 **Vibrato**, **pitch** and **Frequency** defines the vibrato of the voice.
 
-**Matrix**
+### **Matrix**
 
 <img width="1392" height="328" alt="Image" src="https://github.com/user-attachments/assets/ba5f08f2-b5a4-43c7-8a78-f0daf0a3a1e2" />
 
@@ -157,14 +157,14 @@ Modwheel : PW, Vibr, Cutoff, Res
 Pitchwheel : Pitch
 Velocity : Vol, Cutoff, Res, Sculpt
 
-**Portamento**
+### **Portamento**
 
 <img width="312" height="205" alt="Image" src="https://github.com/user-attachments/assets/4311ef4a-5697-4b8e-9f90-281e086199a9" />
 
 The overall voice management mode can be set to **Poly**, **Mono** and **Legato**
 **Portamento time** sets the glide time between notes. Works in all voice modes.
 
-**Presets**
+### **Presets**
 
 <img width="891" height="114" alt="Image" src="https://github.com/user-attachments/assets/841f052e-5195-4838-9b5d-4c47919c793d" />
 
@@ -187,7 +187,7 @@ Your previous batch will reappear when the the ref sound button is turned off ag
 
 **Specifications**
 
-**Appendix**
+### **Appendix**
 
 Unison detune and distribution models
 
