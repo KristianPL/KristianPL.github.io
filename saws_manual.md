@@ -1,5 +1,5 @@
 
-[[<img width="887" height="816" alt="Image" src="" />](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be)](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be)
+[[[<img width="887" height="816" alt="Image" src="" />](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be)](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be)](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be)
 
 
 
@@ -21,7 +21,7 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 ### **Signal path** 
 
-[[<img width="1301" height="618" alt="Image" src="" />](https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8)](https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8)
+[[[<img width="1301" height="618" alt="Image" src="" />](https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8)](https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8)](https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8)
 
 
 ### **Installations guide**
