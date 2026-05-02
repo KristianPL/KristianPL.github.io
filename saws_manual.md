@@ -32,6 +32,8 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 
 ![title](https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8){: width="100px"}
+
+
 <img width="1337" height="759" alt="image" src="https://github.com/user-attachments/assets/a4815295-1f64-4c64-b76a-d36555a2c6c6" />
 
 
@@ -45,7 +47,10 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 
 
-![titlen](https://github.com/user-attachments/assets/07a45029-ec08-4f23-90db-61ac7e8c9d2b){: .float-left}
+![titlen](https://github.com/user-attachments/assets/b85a5104-84f0-4851-a897-6f7536b87dad){: .float-left}
+
+<img width="393" height="264" alt="image" src="https://github.com/user-attachments/assets/b85a5104-84f0-4851-a897-6f7536b87dad" />
+
 
 Below the overall organization and the signal flow logic of the UI. 
 
