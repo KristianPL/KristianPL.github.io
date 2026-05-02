@@ -9,19 +9,6 @@ title: Home
 
 ---
 
-
-
-# Contents
-* Welcome
-* Updates
-* Download link
-* Install guide
-* Manual
-* Disclaimer
-* Donate
-* Sound samples, videos
-* About
-
 ![SAWS Hero Image](https://github.com/user-attachments/assets/2f3d37d4-d4dd-4ed0-bf8c-92a1b1ccc22d){: .full-width-image}
 
 
