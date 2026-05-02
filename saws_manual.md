@@ -34,17 +34,17 @@ https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8
 ### **UI overview**
 
 
-![Filter Section]([filter-knob.png](https://github.com/user-attachments/assets/07a45029-ec08-4f23-90db-61ac7e8c9d2b)){: .medium-size}
+https://github.com/user-attachments/assets/07a45029-ec08-4f23-90db-61ac7e8c9d2b
 
 Below the overall organization and the signal flow logic of the UI. 
 
 
-![Workflow]([workflow-demo.png](https://github.com/user-attachments/assets/bcf95bba-74f7-4f08-8226-acf5e1922486)){: .card-img}
+https://github.com/user-attachments/assets/bcf95bba-74f7-4f08-8226-acf5e1922486
+
 
 ### **Oscillators**
 
-
-![Power Button]([power.png](https://github.com/user-attachments/assets/97f26fca-64ae-4eed-be7d-7c0462d57a55)){: .float-left}
+(https://github.com/user-attachments/assets/97f26fca-64ae-4eed-be7d-7c0462d57a55
 
 **Type**, select waveform: Saw, Square, Triangle and Noise
 **Oct**, **Pitch** and **Detune** sets the oscillator tuning at respectively levels; octave, semi tones and fine tuning 
@@ -58,9 +58,7 @@ Below the overall organization and the signal flow logic of the UI.
 
 ### **Unison**
 
-
-
-![LFO Knob]([knob.png](https://github.com/user-attachments/assets/b0deada9-f57b-417f-95e6-34ce7b995388)){: width="300px"}
+https://github.com/user-attachments/assets/b0deada9-f57b-417f-95e6-34ce7b995388
 
 **Voices** and **Type**. Set 1-8 unison voices. When voices is 1, the unison unit is just passed through. 
 The "**SuperSaw**" type uses static detuned voices spread out with given detune range, amplitude and pan spread. "**ChorusLike**" unison type uses oscillating detune values spread by a phase difference (frequency set by **Ch. Freq**).
