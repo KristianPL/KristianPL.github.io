@@ -10,7 +10,7 @@ title: Home
 ---
 
  
-![Front page](https://github.com/user-attachments/assets/14b9e4d7-ea3c-4eaf-8297-dc18322a64b0){: .full-width}
+![Front page](https://github.com/user-attachments/assets/f61aa34e-b81b-4416-8869-dadd6d930e82){: .full-width}
 
 
 
