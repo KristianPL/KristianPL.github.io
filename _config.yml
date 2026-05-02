@@ -1,6 +1,6 @@
 title: "The SAWS Synthesizer Resource"
 description: "Free stereo virtual analog subtractive synthesizer"
-theme: just-the-docs  # Options: hacker, slate, tactile, midnight, architect 
+theme: just-the-docs  # minima   Options: hacker, slate, tactile, midnight, architect 
 
 # Settings for the Table of Contents and Markdown
 kramdown:
