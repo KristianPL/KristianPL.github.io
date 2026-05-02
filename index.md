@@ -81,4 +81,4 @@ Links
 
 
 
-[Check out my About page](/about)
+[Manual](/saws_manual)
