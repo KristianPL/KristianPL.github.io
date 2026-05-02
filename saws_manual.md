@@ -3,7 +3,7 @@
 
 
 
-![Front page]([ui-screenshot.png](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be )){: .full-width}
+![Front page]([ui-screenshot.png](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be ){: .full-width}
 
 **Copyright** 
 
