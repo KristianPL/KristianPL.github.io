@@ -8,7 +8,7 @@ title: Home
 
 
 
-
+[Donate](#Donate) 
 [Download](#Download-link)  
 [Install guide](#Install-guide)  
 [Manual](#Manual)   
