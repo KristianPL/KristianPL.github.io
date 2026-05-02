@@ -1,0 +1,23 @@
+---
+---
+@import "{{ site.theme }}";
+
+// This makes images span the full container width while maintaining ratio
+.full-width-image {
+  width: 100%;       // Spans the full width of the content area
+  height: auto;      // Keeps the aspect ratio perfect
+  display: block;
+  margin: 2rem 0;    // Adds some breathing room top and bottom
+  border-radius: 8px; // Gives it a modern, soft-corner look
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1); // Modern depth
+}
+
+// Ensure the Table of Contents looks like a clean list
+#markdown-toc {
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 5px;
+  list-style-position: inside;
+  font-size: 0.9rem;
+  border-left: 4px solid #157ad8;
+}
