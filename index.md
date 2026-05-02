@@ -4,7 +4,7 @@ title: SAWS Synth
 ---
 
 # Contents
-* Welcom
+* Welcome
 * Updates
 * Download link
 * Install guide
