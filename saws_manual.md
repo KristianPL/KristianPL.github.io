@@ -6,7 +6,10 @@
 
 
 
-![Front page](https://github.com/user-attachments/assets/38ab3386-ed6c-4cde-bd6d-689910cee5be ){: .full-width}
+![Front page](https://github.com/user-attachments/assets/a026352c-f2d4-4321-b8e6-fe98ff2935e4){: .full-width}
+
+
+
 
 **Copyright** 
 
@@ -29,6 +32,7 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 
 ![title](https://github.com/user-attachments/assets/927cf6f3-479c-45be-913a-7159aa090ed8){: width="100px"}
+<img width="1337" height="759" alt="image" src="https://github.com/user-attachments/assets/a4815295-1f64-4c64-b76a-d36555a2c6c6" />
 
 
 ### **Installations guide**
