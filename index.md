@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Home
+
+nav_order: 2
+has_toc: true
 ---
+
 
 ## Quick Navigation
 * This will become the Table of Contents
