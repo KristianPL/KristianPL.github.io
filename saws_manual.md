@@ -6,7 +6,8 @@
 
 
 
-![Front page](https://github.com/user-attachments/assets/a026352c-f2d4-4321-b8e6-fe98ff2935e4){: .full-width}
+![Front page](https://github.com/user-attachments/assets/c3270e34-230a-4b87-b8ca-735411a9b412){: .full-width}
+
 
 
 
@@ -30,9 +31,7 @@ Selected functions targeting musical tones withing the range of virtual analog p
 ### **Signal path** 
 
 
-
-![title](https://github.com/user-attachments/assets/a4815295-1f64-4c64-b76a-d36555a2c6c6){: width="100px"}
-
+![title](https://github.com/user-attachments/assets/a146ad89-db86-4a25-bab6-6f8c55adc5cd){: .medium-size}
 
 
 
@@ -44,24 +43,22 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 ### **UI overview**
 
+![title](https://github.com/user-attachments/assets/a38e3f45-08fb-4235-9c00-2196a1c336c4){: .medium-size}
 
-
-
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/b85a5104-84f0-4851-a897-6f7536b87dad" />
 
 
 Below the overall organization and the signal flow logic of the UI. 
 
 
 
-![title](https://github.com/user-attachments/assets/bcf95bba-74f7-4f08-8226-acf5e1922486){: .medium-size}
+![title](https://github.com/user-attachments/assets/907da503-07e6-40b1-bd77-82a29b16a92e){: .medium-size}
+
 
 ### **Oscillators**
 
 
-![titlen](https://github.com/user-attachments/assets/97f26fca-64ae-4eed-be7d-7c0462d57a55){: .float-left}
+![titlen](https://github.com/user-attachments/assets/b8f78be1-095b-4038-ae67-7fd8e5d1fa34){: .float-left}
+
 
 **Type**, select waveform: Saw, Square, Triangle and Noise
 **Oct**, **Pitch** and **Detune** sets the oscillator tuning at respectively levels; octave, semi tones and fine tuning 
@@ -76,7 +73,9 @@ Below the overall organization and the signal flow logic of the UI.
 ### **Unison**
 
 
-![titlen](https://github.com/user-attachments/assets/b0deada9-f57b-417f-95e6-34ce7b995388){: .float-left}
+![titlen](https://github.com/user-attachments/assets/8f1c74c1-d3c5-42d1-ab45-3ed794a73101){: .float-left}
+
+
 
 **Voices** and **Type**. Set 1-8 unison voices. When voices is 1, the unison unit is just passed through. 
 The "**SuperSaw**" type uses static detuned voices spread out with given detune range, amplitude and pan spread. "**ChorusLike**" unison type uses oscillating detune values spread by a phase difference (frequency set by **Ch. Freq**).
@@ -87,7 +86,9 @@ Asym, is an extra fine tuning parameter causing different effects depending on t
 
 ### **Osc mixer**
 
-![titlen](https://github.com/user-attachments/assets/07f1c57d-3d67-49b2-9fe9-5e8a437a8556){: .float-left}
+![titlen](https://github.com/user-attachments/assets/3e3afdd5-9fbc-4105-95b0-d0053100a373){: .float-left}
+
+
 
 **Vol** and **Pan** mixes the output from the unision module before entering the filter.
 **Pre-attack** controls an attack ramp time of the signal before the filter.
@@ -95,7 +96,8 @@ Asym, is an extra fine tuning parameter causing different effects depending on t
 ### **Filter routing & Mix**
 
 
-![titlen](https://github.com/user-attachments/assets/aa1b4162-3459-4890-be5d-35c94d6a3486){: .float-left}
+![titlen](https://github.com/user-attachments/assets/8986df42-800e-473c-ab17-a7d7ded75b0e){: .float-left}
+
 
 After the unision module, the signals can be fed through on of the two independent instances of the filter, F1 and F2. The gain before the filter, and how the oscillator signals are combined, affects the filter drive and saturation.
 **O1,O2,O3** to **F1** and **F2** switch board matrix sets the routing.
@@ -106,7 +108,9 @@ Final mix of the filter output.
 
 ### **Amp Envelope**
 
-![titlen](https://github.com/user-attachments/assets/26c394a9-5802-40a8-a4ff-62f1a0ad0a7b){: .float-left}
+![titlen](https://github.com/user-attachments/assets/02a15eb2-ecc7-4549-ac74-6f384ab15a36){: .float-left}
+
+
 
 **ADSR** control of the signal.
 **Curve** sets the envelope curve form from round to linear.
@@ -114,7 +118,9 @@ Final mix of the filter output.
 
 ### **Master Out**
 
-![titlen](https://github.com/user-attachments/assets/64cbbb9a-b556-4975-ab5c-afd4687414d1){: .float-left}
+![titlen](https://github.com/user-attachments/assets/e46512bf-4f24-4e74-8c50-3286a417c16c){: .float-left}
+
+
 
 **HP** and  **SHLF THRU** controls a high pass shelve filter of the final output. Shelf through level = 0 resembles a normal 1st order HP filter, increasing the shelf level represents the dry mix level. For shelve values 100% - 200% the filter suppresses the higher frequencies above HP freq, turning the filter into a low pass filter.
 Vol and Meter
@@ -123,7 +129,9 @@ Vol and Meter
 ### **Filters**
 
 
-![titlen](https://github.com/user-attachments/assets/0905a4d9-0959-443b-9879-426326c0792d){: .float-left}
+![titlen](https://github.com/user-attachments/assets/144f6baa-3157-45b0-939e-695eb80798b1){: .float-left}
+
+
 
 **Filter Types** include 5 custom developed filters:
 
@@ -138,7 +146,9 @@ Standard filter controls with **Cutoff**, **Res** and  **Contour**
 
 ### **Filter Envelope**
 
-![titlen](https://github.com/user-attachments/assets/0878c30a-4b4d-47d0-9717-f9372a1d45ef){: .float-left}
+![titlen](https://github.com/user-attachments/assets/d19d317a-8df8-44ef-87dd-080d737b317f){: .float-left}
+
+
  
 **ADSR** standard coltrols
 **Pitch ENV**  sets pitch bend to the filter envelope. This is active even when sculpt is 0.
@@ -148,7 +158,9 @@ Standard filter controls with **Cutoff**, **Res** and  **Contour**
 ### **Soft Mod**
 
 
-![titlen](https://github.com/user-attachments/assets/2ad44f27-68a3-4ceb-9ba4-159d0bdb09eb){: .float-left}
+![titlen](https://github.com/user-attachments/assets/2fafc8d3-5957-494b-9f2b-1ca23ca1a07d){: .float-left}
+
+
 
 The SAWS Synth features a "**Soft Mod**" option, where the signal(s) routed to the F2 path (after first optional saturation and before the filter) is used for FM of the OSC1 waveform.
 The effect is limited to relative small amplitudes, therefore the name "soft mod". The total modulation amplitude depends on the Soft Mod value and the amplitude of signals routed to F2.
@@ -158,28 +170,38 @@ Full FM effect is achieved when OSC1 is a sine waveform. For other waveforms (sa
 
 ### **LFOs**
 
-![titlen](https://github.com/user-attachments/assets/bbd7305d-8ee3-4615-863b-fcd270664372){: .float-left}
+![titlen](https://github.com/user-attachments/assets/7fdc7980-4d07-4195-9e3e-cbe149739c0){: .float-left}
+
+
 
 The **Sine or Triangle** lever sets the waveform for LFO1 and LFO2 to sine or triangle.  
 Freq, Ph. and Att. control the frequency, start phase and attack ramp time of the LFO. In the lower settings of the frequency slider there are options to sync the LFO freq to DAW tempo. 
 In the lower range of the phase slider, 2 special modes "Rnd" for random phase onset, and "Scene" for shared running phase of all active voices.
 
 ### **LFO1 Dirt**
-https://github.com/user-attachments/assets/bc8a1be8-5b4b-4c8f-9546-71eddde4c6d2
-![titlen](){: .float-left}
+ 
+![titlen](https://github.com/user-attachments/assets/dc6d77e2-67ee-495f-a99c-e4c010c61b18){: .float-left}
+
+
 
 Brownian style noise source that can be added independently to the LFO1 signal and associated matrix parameters.
 **Color** and  **Ampl** set the noise color and amplitude, where a higher color value has more high frequency content.
 
 ### **Vibrato**
 
-![titlen](https://github.com/user-attachments/assets/c076bdd2-e514-4f47-9856-df8b28ad181a){: .float-left}
+![titlen](https://github.com/user-attachments/assets/6beffdfd-7616-48d7-9a0e-6af5921dd4c2){: .float-left}
+
+
+
 
 **Vibrato**, **pitch** and **Frequency** defines the vibrato of the voice.
 
 ### **Matrix**
 
-![titlen](https://github.com/user-attachments/assets/ba5f08f2-b5a4-43c7-8a78-f0daf0a3a1e2){: .float-left}
+![titlen](https://github.com/user-attachments/assets/8dc01325-8b50-4f0d-9d1d-525ff8ad3e3b){: .float-left}
+
+
+
 
 The SAWS Synth features a simple matrix with selected parameters for assigning effects to the LFOs, Modwheel, pitch wheel and velocity.
 LFO1 + Dirt : Pitch, PW for OSC1-3, and cutoff, res and global vol
@@ -190,14 +212,20 @@ Velocity : Vol, Cutoff, Res, Sculpt
 
 ### **Portamento**
 
-![titlen](https://github.com/user-attachments/assets/4311ef4a-5697-4b8e-9f90-281e086199a9){: .float-left}
+![titlen](https://github.com/user-attachments/assets/b06cfcbc-ed9f-4651-86bc-ad26360ad403){: .float-left}
+
+
+
 
 The overall voice management mode can be set to **Poly**, **Mono** and **Legato**
 **Portamento time** sets the glide time between notes. Works in all voice modes.
 
 ### **Presets**
 
-![titlen](https://github.com/user-attachments/assets/841f052e-5195-4838-9b5d-4c47919c793d){: .float-left}
+![titlen](https://github.com/user-attachments/assets/455e69d9-1c87-4d99-9709-5a2c4c750aea){: .float-left}
+
+
+
 
 The presets are managed the (xml) files located in the file folders: "User", "Factory" and "Reference"
 A given voice parameter state can be saved as a user preset.
@@ -226,21 +254,36 @@ Unison detune and distribution models
 Distrib
 
 
-![title](https://github.com/user-attachments/assets/d351c4f8-00e8-4d4f-94d3-4c51502f2ac1)
+![title](https://github.com/user-attachments/assets/21f16e55-d90f-41ea-a5ae-aaeb74e695ed)
+
+
 
 St. Width
 
 
-![title](https://github.com/user-attachments/assets/01d846ee-ffdb-42cc-ac99-69023bfef041)
+![title](https://github.com/user-attachments/assets/3cf48c34-1608-46e5-af02-4242ad45f7ef)
 
-![title](https://github.com/user-attachments/assets/566ced5e-9ce6-4a38-a780-990e0c7427f2)
+
+
+
+![title](https://github.com/user-attachments/assets/c3ef8b10-7fff-4ac1-8985-1aab7664211f)
+
+
+
 Distrib
 
 
-![title](https://github.com/user-attachments/assets/3e8018ef-16f1-4710-9722-a8e7181653c6)
-Var
+![title](https://github.com/user-attachments/assets/4991a553-a344-4083-a97e-44da6fccec0a)
 
-https://github.com/user-attachments/assets/6fe954d9-ca79-44e9-bdcb-a930349169af
+
+
+
+Var
+![title](https://github.com/user-attachments/assets/3755292b-c36c-4364-8595-7278c2dc430)
+
+ 
+
+
 
 Att
 
