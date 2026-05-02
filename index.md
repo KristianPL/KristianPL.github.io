@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Home
-
-nav_order: 1
-has_toc: true
 ---
 
+## Quick Navigation
+* This will become the Table of Contents
+{:toc}
+
+---
 
 
  
