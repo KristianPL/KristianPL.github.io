@@ -2,6 +2,8 @@
 
 ![Front page](https://github.com/user-attachments/assets/c3270e34-230a-4b87-b8ca-735411a9b412){: .full-width}
 
+## Quick Navigation
+* This will become the Table of Contents
 {:toc}
 
 **Copyright** 
