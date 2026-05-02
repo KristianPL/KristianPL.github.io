@@ -10,7 +10,7 @@
 
 ### **Design**
 
-Building on classic subtractive principles, the SAWS Synth is a virtual analog synthesizer features 8 voice polyphony, 3 oscillators, extended 8-voice unison control and a full stereo path architecture.
+Building on classic subtractive principles, the SAWS Synth is a virtual analog synthesizer featuring 8 voice polyphony, 3 oscillators, extended 8-voice unison control and a full stereo path architecture.
 The single-page layout displays all parameter values in plain view for the active patch.
 By use of classic subtractive elements the synth targets musical synth sounds, with dynamic wide stereo image, phase control and precise attack tuning. Dirt and drift noise can be added to main parameters for an analog feel.
 It uses a ring buffer and BLEP techniques for effective quality antialiasing with variable cutoff strength.
