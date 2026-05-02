@@ -217,18 +217,18 @@ Unison detune and distribution models
 Distrib
 
 
-![title](https://github.com/user-attachments/assets/d351c4f8-00e8-4d4f-94d3-4c51502f2ac1){}
+![title](https://github.com/user-attachments/assets/d351c4f8-00e8-4d4f-94d3-4c51502f2ac1)
 
 St. Width
 
 
-![title](https://github.com/user-attachments/assets/01d846ee-ffdb-42cc-ac99-69023bfef041){}
+![title](https://github.com/user-attachments/assets/01d846ee-ffdb-42cc-ac99-69023bfef041)
 
-![title](https://github.com/user-attachments/assets/566ced5e-9ce6-4a38-a780-990e0c7427f2){}
+![title](https://github.com/user-attachments/assets/566ced5e-9ce6-4a38-a780-990e0c7427f2)
 Distrib
 
 
-![title](https://github.com/user-attachments/assets/3e8018ef-16f1-4710-9722-a8e7181653c6){}
+![title](https://github.com/user-attachments/assets/3e8018ef-16f1-4710-9722-a8e7181653c6)
 Var
 
 https://github.com/user-attachments/assets/6fe954d9-ca79-44e9-bdcb-a930349169af
