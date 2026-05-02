@@ -32,6 +32,16 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 ### **Disclaimer**
 
+This software synthesizer is provided free of charge and is currently in  _beta testing_ . It may contain bugs or unintended behaviors.
+
+_Warning: Loud Audio Output_
+This plugin is capable of generating sudden, high-volume, or unexpected sounds, including due to software errors or instability. Users should take appropriate precautions, including:  1) _Keeping monitoring levels at a safe volume_; 2) _Avoiding headphone use at high levels during testing_
+
+By using this software, you acknowledge that you do so at your own risk. The developer assumes no responsibility or liability for any damage, including but not limited to:  1) _Hearing damage or discomfor_t; 2) _Damage to speakers, headphones, or audio equipment_; 3) _Data loss or system instability_
+
+_No Warranty_. This software is provided “as is”, without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose, reliability, or performance.
+
+
 ### **UI overview**
 
 ![title](https://github.com/user-attachments/assets/a38e3f45-08fb-4235-9c00-2196a1c336c4){: .medium-size}
