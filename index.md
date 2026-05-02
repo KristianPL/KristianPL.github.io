@@ -7,11 +7,6 @@ has_toc: true
 ---
 
 
-## Quick Navigation
-* This will become the Table of Contents
-{:toc}
-
----
 
  
 ![Front page](https://github.com/user-attachments/assets/f61aa34e-b81b-4416-8869-dadd6d930e82){: .full-width}
