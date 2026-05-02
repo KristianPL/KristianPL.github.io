@@ -1,22 +1,19 @@
-title: SAWS Synthesizer Resource
-description: Free stereo virtual analog subtractive synthesizer
+title: "The SAWS Synthesizer Resource"
+description: "Free stereo virtual analog subtractive synthesizer"
+theme: minima  # Options: hacker, slate, tactile, midnight, architect 
 
-remote_theme: just-the-docs/just-the-docs
- 
-plugins:
-  - jekyll-remote-theme
+# Settings for the Table of Contents and Markdown
+kramdown:
+  toc_levels: 1..3
+  input: GFM # GitHub Flavored Markdown
+  syntax_highlighter: rouge
 
-# Sidebar search 
-search_enabled: true
+# Header Links (Architect uses these in the sidebar/header)
+header_pages:
+  - index.md
+  - saws_manual.md
 
-# Makes headings clickable anchors
-heading_anchors: true
+# Social Links
+youtube_username: KristianPont
+github_username: KristianPl
 
-# Optional styling
-color_scheme: dark
-
-# Sidebar navigation structure
-nav:
-  - Home: index.md
-  - Manual: saws_manual.md
-  - DSP Notes: dsp_notes.md
