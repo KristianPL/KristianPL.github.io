@@ -6,9 +6,13 @@ title: Home
 
 ![Front page](https://github.com/user-attachments/assets/f61aa34e-b81b-4416-8869-dadd6d930e82){: .full-width}
 
-## Quick Navigation
-* This will become the Table of Contents
-{:toc}
+
+
+
+[Download](#Download-link)  
+[Install guide](#Install-guide)  
+[Manual](#Manual)   Sound samples, videos
+[Sound Samples](#Sound-samples,-videos)
 
 ### **Welcome and Key features**
 
