@@ -6,9 +6,6 @@
 
 **Copyright** 
 
-**Contact**
- 
- 
 
 
 ### **Design**
