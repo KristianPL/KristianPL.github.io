@@ -1,10 +1,10 @@
 title: "The SAWS Synthesizer Resource"
-description: "Free virtual analog subtractive synthesizer"
+description: "Free stereo virtual analog subtractive synthesizer"
 theme: minima  # Options: hacker, slate, tactile, midnight, architect
 
 # Header Links
 header_pages:
-  - about.md
+  - saws_manual.md
 
 # Social Links
 youtube_username: KristianPont
