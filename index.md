@@ -6,9 +6,10 @@ title: SAWS Synth
 # Contents
 * Welcom
 * Updates
-* Disclaimer
 * Download link
 * Install guide
+* Manual
+* Disclaimer
 * Donate
 * Sound samples, videos
 * About
@@ -48,6 +49,10 @@ Presets are placed at the location: /......
 VST3 Apple:
 The installer will unzip, and place the vst3 plugin file in folder/.... 
 Presets are placed at the location: /......
+
+### **Manual**
+
+[Go to the Manual](/saws_manual)
 
 ### **Disclaimer**
 This software synthesizer is provided free of charge and is currently in  _beta testing_ . It may contain bugs or unintended behaviors.
