@@ -39,8 +39,6 @@ Selected functions targeting musical tones withing the range of virtual analog p
 Download the installer here Windows    Apple
 Download from softmedia...
 
-### **Donate**
-
 ### **Install guide**
 
 VST3 windows: 
@@ -61,6 +59,7 @@ By using this software, you acknowledge that you do so at your own risk. The dev
 
 _No Warranty_. This software is provided “as is”, without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose, reliability, or performance.
 
+### **Donate**
 
 ### **Sound samples, videos**
 
