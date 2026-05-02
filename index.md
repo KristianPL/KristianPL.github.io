@@ -9,7 +9,8 @@ title: Home
 
 ---
 
-![SAWS Synth UI](https://github.com/user-attachments/assets/d1f9c9e6-7100-4210-82fc-1dd6495cb0bd){: .full-width-image}
+
+<img width="887" height="816" alt="image" src="https://github.com/user-attachments/assets/b3c8a911-95a1-46d1-803c-182fe99d2a9a" />
 
 
 ### **Welcome and Key features**
