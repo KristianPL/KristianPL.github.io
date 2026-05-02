@@ -3,17 +3,12 @@ layout: default
 title: Home
 ---
 
+
+![Front page](https://github.com/user-attachments/assets/f61aa34e-b81b-4416-8869-dadd6d930e82){: .full-width}
+
 ## Quick Navigation
 * This will become the Table of Contents
 {:toc}
-
----
-
-
- 
-![Front page](https://github.com/user-attachments/assets/f61aa34e-b81b-4416-8869-dadd6d930e82){: .full-width}
-
-
 
 ### **Welcome and Key features**
 
@@ -31,7 +26,7 @@ It uses a ring buffer and BLEP techniques for effective quality antialiasing wit
 It features 4 fully in-house developed unconventional resonant and distorted low pass filters which covers: 1) linear phase Bessel filters, 2) a brighter lattice 12 dB and 24 dB, a CombEffect filter for pads and finallt a 12 dB Bessel filter variant with experimental distortion/drive
 Selected functions targeting musical tones withing the range of virtual analog principles. Notably missing osc sync, only one lfo waveform (sine), limited phase modulation (softmod), fairly limited modulation matrix.
 
-### **Updates:**
+**Updates:**
 2026_05_01: Saws Synth version 1.05 was released for beta testing.
 
 ### **Download link**
@@ -53,7 +48,7 @@ Presets are placed at the location: /......
 
 [Go to the Manual](/saws_manual)
 
-### **Disclaimer**
+**Disclaimer**
 This software synthesizer is provided free of charge and is currently in  _beta testing_ . It may contain bugs or unintended behaviors.
 
 _Warning: Loud Audio Output_
