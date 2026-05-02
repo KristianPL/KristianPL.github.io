@@ -5,14 +5,13 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+nav_order: 1
+
 kramdown:
   input: GFM # GitHub Flavored Markdown
   syntax_highlighter: rouge
 
-# Header Links (Architect uses these in the sidebar/header)
-header_pages:
-  - index.md
-  - saws_manual.md
+
 
 # Social Links
 youtube_username: KristianPont
