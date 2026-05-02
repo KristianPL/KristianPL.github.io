@@ -1,7 +1,6 @@
 title: "The SAWS Synthesizer Resource"
 description: "Free stereo virtual analog subtractive synthesizer"
-remote_theme: just-the-docs/just-the-docs
-
+remote_theme: pages-themes/dinky
 plugins:
   - jekyll-remote-theme
 
