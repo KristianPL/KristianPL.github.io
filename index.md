@@ -14,7 +14,7 @@ title: Home
 [Manual](#Manual)   
 [Sound Samples](#Sound-samples,-videos)
 
-### **Welcome and Key features**
+## **Welcome and Key features**
 
 The SAWS Synth is a free high quality synthesizer plugin, building on classic subtractive principles. 
 Key features:
@@ -33,12 +33,12 @@ Selected functions targeting musical tones withing the range of virtual analog p
 **Updates:**
 2026_05_01: Saws Synth version 1.05 was released for beta testing.
 
-### **Download link**
+## **Download link**
 
 Download the installer here Windows    Apple
 Download from softmedia...
 
-### **Install guide**
+## **Install guide**
 
 VST3 windows: 
 The installer will unzip, and place the vst3 plugin file in folder/.... 
@@ -48,7 +48,7 @@ VST3 Apple:
 The installer will unzip, and place the vst3 plugin file in folder/.... 
 Presets are placed at the location: /......
 
-### **Manual**
+## **Manual**
 
 [Go to the Manual](/saws_manual)
 
@@ -62,9 +62,9 @@ By using this software, you acknowledge that you do so at your own risk. The dev
 
 _No Warranty_. This software is provided “as is”, without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose, reliability, or performance.
 
-### **Donate**
+## **Donate**
 
-### **Sound samples, videos**
+## **Sound samples, videos**
 
 _Slightly finalised version of the below:_
 
@@ -76,7 +76,7 @@ _Slightly finalised version of the below:_
 - Trancepop32
 - tri_wav1
 
-### **About**
+## **About**
 
 Developed in 2025-2026 by Kristian Pontoppidan Larsen
 Copenhagen. 
