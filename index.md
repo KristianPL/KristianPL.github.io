@@ -8,11 +8,11 @@ title: Home
 
 
 
-[Donate](#Donate) 
-[Download](#Download-link)  
-[Install guide](#Install-guide)  
-[Manual](#Manual)   
-[Sound Samples](#Sound-samples,-videos)
+- [Donate](#donate)
+- [Download](#download-link)  
+- [Install guide](#install-guide)  
+- [Manual](#manual)   
+- [Sound Samples](#sound-samples,-videos)
 
 ## **Welcome and Key features**
 
