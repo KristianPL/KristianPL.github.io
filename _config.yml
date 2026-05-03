@@ -2,7 +2,7 @@ title: "The SAWS Synthesizer Resource"
 description: "Free stereo virtual analog subtractive synthesizer"
 theme: minima  # Options: hacker, slate, tactile, midnight, architect 
 
-baseurl: "/saws_synth"
+# baseurl: "/saws_synth"
 
 # Settings for the Table of Contents and Markdown
 kramdown: 
