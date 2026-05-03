@@ -9,6 +9,15 @@
 
 © 2026 Kristian Pontoppidan Larsen. All rights reserved.
 
+### **Disclaimer**
+
+This software synthesizer is provided free of charge and is currently in  _beta testing_ . It may contain bugs or unintended behaviors.
+
+_Warning: Loud Audio Output_
+This plugin is capable of generating sudden, high-volume, or unexpected sounds, including due to software errors or instability. Users should take appropriate precautions, including:  1) _Keeping monitoring levels at a safe volume_; 2) _Avoiding headphone use at high levels during testing_<br>
+
+By using this software, you acknowledge that you do so at your own risk. This software is provided “as is”, without warranty of any kind, express or implied.<br>
+
 ### **Installation Guide**
 
 ### **Design**
@@ -24,19 +33,9 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 ### **Signal path** 
 
-
 ![title](https://github.com/user-attachments/assets/a146ad89-db86-4a25-bab6-6f8c55adc5cd){: .medium-size}
 
 
-
-### **Disclaimer**
-
-This software synthesizer is provided free of charge and is currently in  _beta testing_ . It may contain bugs or unintended behaviors.
-
-_Warning: Loud Audio Output_
-This plugin is capable of generating sudden, high-volume, or unexpected sounds, including due to software errors or instability. Users should take appropriate precautions, including:  1) _Keeping monitoring levels at a safe volume_; 2) _Avoiding headphone use at high levels during testing_<br>
-
-By using this software, you acknowledge that you do so at your own risk. This software is provided “as is”, without warranty of any kind, express or implied.<br>
 
 
 ### **UI overview**
