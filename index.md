@@ -41,12 +41,28 @@ Download from softmedia...<br>
 ## **Install guide**
 
 VST3 windows: 
-The installer will unzip, and place the vst3 plugin file in folder/.... <br>
-Presets are placed at the location: /......<br>
+The bundle contains the VST3 file and the preset collection.<br>
+Place the VST3 where you normally place VTS3 files, typically C:\Program Files\Common Files\VST3<br>
+The presets are placed at the location: C:\Users\username\Documents\MySawsSynthPresets <br>
+The final folder structure for presets should look like this:<br>
+<pre>
+Documents/
+└── MySawsSynthPresets/
+    ├── Factory/
+    ├── User/
+    └── Reference/
+</pre>
 
-VST3 Apple:
-The installer will unzip, and place the vst3 plugin file in folder/.... <br>
-Presets are placed at the location: /......<br>
+VST3 Apple:<b>
+Place the VST3 where you normally place VTS3 files, typically/Library/Audio/Plug-Ins/VST3/<b>
+Presets are placed in the Documents folder:<br>
+<pre>
+~/Documents/
+└── MySawsSynthPresets/
+    ├── Factory/
+    ├── User/
+    └── Reference/
+</pre>
 
 ## **Manual**
 
