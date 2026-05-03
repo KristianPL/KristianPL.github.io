@@ -90,9 +90,8 @@ Asym, is an extra fine tuning parameter causing different effects depending on t
 
 ### **Osc mixer**
 
-![titlen](https://github.com/user-attachments/assets/3e3afdd5-9fbc-4105-95b0-d0053100a373){: .float-left}
 
-
+img src="https://github.com/user-attachments/assets/3e3afdd5-9fbc-4105-95b0-d0053100a373" style="width:40%;">
 
 **Vol** and **Pan** mixes the output from the unision module before entering the filter.
 **Pre-attack** controls an attack ramp time of the signal before the filter.
