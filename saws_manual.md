@@ -249,6 +249,7 @@ Var
  
 <img src="https://github.com/user-attachments/assets/6b6cf194-0c70-440e-b396-4006c421efbc" >
 
+Note. In ChorusLike unison mode, the VAR slider behaves differently. Here, the VAR value controls a slight phase offset for the individual detune oscillations of each unison voice. Thus, this will slightly change how the detunes interfers and overall character of the unison. This is a somewhat small effect.
 
-Att
+
 
