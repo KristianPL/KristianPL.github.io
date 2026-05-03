@@ -9,7 +9,7 @@
 
 **Copyright** 
 
-
+### **Installations guide**
 
 ### **Design**
 
@@ -27,10 +27,6 @@ Selected functions targeting musical tones withing the range of virtual analog p
 
 ![title](https://github.com/user-attachments/assets/a146ad89-db86-4a25-bab6-6f8c55adc5cd){: .medium-size}
 
-
-
-
-### **Installations guide**
 
 
 ### **Disclaimer**
