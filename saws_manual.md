@@ -9,6 +9,8 @@
 
 **Copyright** 
 
+© 2026 Kristian Pontoppidan Larsen. All rights reserved.
+
 ### **Installations guide**
 
 ### **Design**
