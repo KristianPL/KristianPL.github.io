@@ -15,9 +15,9 @@
 
 ### **Design**
 
-Building on classic subtractive principles, the SAWS Synth is a virtual analog synthesizer featuring 8 voice polyphony, 3 oscillators, extended 8-voice unison control and a full stereo path architecture.
-The single-page layout displays all parameter values in plain view for the active patch.
-By use of classic subtractive elements the synth targets musical synth sounds, with dynamic wide stereo image, phase control and precise attack tuning. Dirt and drift noise can be added to main parameters for an analog feel.
+Building on classic subtractive principles, the SAWS Synth is a virtual analog synthesizer featuring 8 voice polyphony, 3 oscillators, extended 8-voice unison control and a full stereo path architecture.<br>
+The single-page layout displays all parameter values in plain view for the active patch.<br>
+By use of classic subtractive elements the synth targets musical synth sounds, with dynamic wide stereo image, phase control and precise attack tuning. Dirt and drift noise can be added to main parameters for an analog feel.<br>
 It uses a ring buffer and BLEP techniques for effective quality antialiasing with variable cutoff strength.
 It features 4 fully in-house developed unconventional resonant and distorted low pass filters which covers: 1) linear phase Bessel filters, 2) a brighter lattice 12 dB and 24 dB, a CombEffect filter for pads and finallt a 12 dB Bessel filter variant with experimental distortion/drive
 Selected functions targeting musical tones withing the range of virtual analog principles. Notably missing osc sync, only one lfo waveform (sine), limited phase modulation (softmod), fairly limited modulation matrix.
@@ -64,11 +64,11 @@ Below the overall organization and the signal flow logic of the UI.
 
 <img src="https://github.com/user-attachments/assets/b8f78be1-095b-4038-ae67-7fd8e5d1fa34" >
 
-**Type**, select waveform: Saw, Square, Triangle and Noise
-**Oct**, **Pitch** and **Detune** sets the oscillator tuning at respectively levels; octave, semi tones and fine tuning 
-**Phase** and **Ph. Rnd** set the start phase of the oscillator and the amount of randomness of the start phase. 
-**PW / Shp** sets the pulse width of square waveform, and morph shape of the triangle (triangle-to-saw morph).
-**BLEP fc** sets the cutoff value of the BLEP waveform used for the fundamental antialiasing filter. Fc = 0.45 corresponds to a cutoff close to Nyquist producing bright tone, while a lower value e.g 0.25 yields a warmer sound with stronger aliasing suppression. 
+**Type**, select waveform: Saw, Square, Triangle and Noise<br>
+**Oct**, **Pitch** and **Detune** sets the oscillator tuning at respectively levels; octave, semi tones and fine tuning. <br>
+**Phase** and **Ph. Rnd** set the start phase of the oscillator and the amount of randomness of the start phase. <br>
+**PW / Shp** sets the pulse width of square waveform, and morph shape of the triangle (triangle-to-saw morph).<br>
+**BLEP fc** sets the cutoff value of the BLEP waveform used for the fundamental antialiasing filter. Fc = 0.45 corresponds to a cutoff close to Nyquist producing bright tone, while a lower value e.g 0.25 yields a warmer sound with stronger aliasing suppression. <br>
 3 special BLEP modes are found when turning the slider to 0 includes, for special BLEP lowpass filters variants that alterns the fundamental waveform sound/grit
 - "**ResGrit**" using a BLEP with more resonant cutoff
 - "**c64Grit**" lower cutoff and wider res peak somehow resembling HP filter gritty sound of the c64
