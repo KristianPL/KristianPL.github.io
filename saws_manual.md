@@ -51,7 +51,9 @@ Below the overall organization and the signal flow logic of the UI.
 
 
 
-![title](https://github.com/user-attachments/assets/907da503-07e6-40b1-bd77-82a29b16a92e){: .medium-size}
+![title](https://github.com/user-attachments/assets/ecbc46dc-3289-4f23-bfae-de76d0bb2bf9){: .medium-size}
+
+
 
 
 ### **Oscillators**
