@@ -1,6 +1,7 @@
 
 
-![Front page](https://github.com/user-attachments/assets/c3270e34-230a-4b87-b8ca-735411a9b412){: .full-width}
+![Front page](https://github.com/user-attachments/assets/17847f58-f52f-4f7c-b41f-93a5e856adae){: .full-width}
+
 
 
 * This will become the Table of Contents
