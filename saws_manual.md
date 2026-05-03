@@ -62,7 +62,7 @@ Below the overall organization and the signal flow logic of the UI.
 
 
 
-<img src="https://github.com/user-attachments/assets/b8f78be1-095b-4038-ae67-7fd8e5d1fa34" style="width:40%;">
+<img src="https://github.com/user-attachments/assets/b8f78be1-095b-4038-ae67-7fd8e5d1fa34" >
 
 **Type**, select waveform: Saw, Square, Triangle and Noise
 **Oct**, **Pitch** and **Detune** sets the oscillator tuning at respectively levels; octave, semi tones and fine tuning 
@@ -91,7 +91,7 @@ Asym, is an extra fine tuning parameter causing different effects depending on t
 ### **Osc mixer**
 
 
-<img src="https://github.com/user-attachments/assets/3e3afdd5-9fbc-4105-95b0-d0053100a373" style="width:40%;">
+<img src="https://github.com/user-attachments/assets/3e3afdd5-9fbc-4105-95b0-d0053100a373" >
 
 **Vol** and **Pan** mixes the output from the unision module before entering the filter.
 **Pre-attack** controls an attack ramp time of the signal before the filter.
