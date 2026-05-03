@@ -53,8 +53,8 @@ Documents/
     └── Reference/
 </pre>
 
-VST3 Apple:<b>
-Place the VST3 where you normally place VTS3 files, typically/Library/Audio/Plug-Ins/VST3/<b>
+VST3 Apple:<br>
+Place the VST3 where you normally place VTS3 files, typically/Library/Audio/Plug-Ins/VST3/<br>
 Presets are placed in the Documents folder:<br>
 <pre>
 ~/Documents/
