@@ -24,41 +24,41 @@ Key features:
 - Dirt and drift noise can be added to main parameters for an analog feel.
 - Effective and variable BLEP to effectively prevent aliasing and to achieve warm and gritty analog tone.
 
-The synth features 8 voice polyphony, 3 oscillators, extended 8-voice unison control and a full stereo path architecture.
+The synth features 8 voice polyphony, 3 oscillators, extended 8-voice unison control and a full stereo path architecture.<br>
 By use of classic subtractive elements the synth targets musical synth sounds, with dynamic wide stereo image, phase control and precise attack tuning. 
-It uses a ring buffer and BLEP techniques for effective quality antialiasing with variable cutoff strength.
-It features 4 fully in-house developed unconventional resonant and distorted low pass filters which covers: 1) linear phase Bessel filters, 2) a brighter lattice 12 dB and 24 dB, a CombEffect filter for pads and finallt a 12 dB Bessel filter variant with experimental distortion/drive
+It uses a ring buffer and BLEP techniques for effective quality antialiasing with variable cutoff strength.<br>
+It features 4 fully in-house developed unconventional resonant and distorted low pass filters which covers: 1) linear phase Bessel filters, 2) a brighter lattice 12 dB and 24 dB, a CombEffect filter for pads and finallt a 12 dB Bessel filter variant with experimental distortion/drive.<br>
 Selected functions targeting musical tones withing the range of virtual analog principles. Notably missing osc sync, only one lfo waveform (sine), limited phase modulation (softmod), fairly limited modulation matrix.
 
 **Updates:**
-2026_05_01: Saws Synth version 1.05 was released for beta testing.
+2026_05_01: Saws Synth version 1.05 was released for beta testing.<br>
 
 ## **Download link**
 
-Download the installer here Windows    Apple
-Download from softmedia...
+Download the installer here Windows    Apple<br>
+Download from softmedia...<br>
 
 ## **Install guide**
 
 VST3 windows: 
-The installer will unzip, and place the vst3 plugin file in folder/.... 
-Presets are placed at the location: /......
+The installer will unzip, and place the vst3 plugin file in folder/.... <br>
+Presets are placed at the location: /......<br>
 
 VST3 Apple:
-The installer will unzip, and place the vst3 plugin file in folder/.... 
-Presets are placed at the location: /......
+The installer will unzip, and place the vst3 plugin file in folder/.... <br>
+Presets are placed at the location: /......<br>
 
 ## **Manual**
 
 [Go to the Manual](/saws_manual)
 
 ## **Disclaimer**
-This software synthesizer is provided free of charge and is currently in  _beta testing_ . It may contain bugs or unintended behaviors.
+This software synthesizer is provided free of charge and is currently in  _beta testing_ . It may contain bugs or unintended behaviors.<br>
 
 _Warning: Loud Audio Output_
-This plugin is capable of generating sudden, high-volume, or unexpected sounds, including due to software errors or instability. Users should take appropriate precautions, including:  1) _Keeping monitoring levels at a safe volume_; 2) _Avoiding headphone use at high levels during testing_
+This plugin is capable of generating sudden, high-volume, or unexpected sounds, including due to software errors or instability. Users should take appropriate precautions, including:  1) _Keeping monitoring levels at a safe volume_; 2) _Avoiding headphone use at high levels during testing_<br>
 
-By using this software, you acknowledge that you do so at your own risk. This software is provided “as is”, without warranty of any kind.
+By using this software, you acknowledge that you do so at your own risk. This software is provided “as is”, without warranty of any kind.<br>
 
 ## **Donate**
 
@@ -76,9 +76,9 @@ _Slightly finalised version of the below:_
 
 ## **About**
 
-Developed in 2025-2026 by Kristian Pontoppidan Larsen
+Developed by Kristian Pontoppidan Larsen (2025-2026) 
 Copenhagen. 
-Links
+
 
 
 
