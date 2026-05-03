@@ -61,8 +61,8 @@ Below the overall organization and the signal flow logic of the UI.
 ### **Oscillators**
 
 
-![titlen](https://github.com/user-attachments/assets/b8f78be1-095b-4038-ae67-7fd8e5d1fa34){: .float-left}
 
+<img src="https://github.com/user-attachments/assets/b8f78be1-095b-4038-ae67-7fd8e5d1fa34" style="width:40%;">
 
 **Type**, select waveform: Saw, Square, Triangle and Noise
 **Oct**, **Pitch** and **Detune** sets the oscillator tuning at respectively levels; octave, semi tones and fine tuning 
